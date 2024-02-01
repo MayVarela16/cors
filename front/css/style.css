@@ -1,0 +1,22 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 50px;
+  }
+  
+  input {
+    padding: 8px;
+  }
+  
+  button {
+    padding: 8px;
+    cursor: pointer;
+  }
+  
+  #characterInfo {
+    margin-top: 20px;
+  }
+  
+  .hidden {
+    display: none;
+  }
